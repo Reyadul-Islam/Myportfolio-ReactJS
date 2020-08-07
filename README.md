@@ -1,2 +1,2 @@
 # Myportfolio-ReactJS
-It is a front-end development using reactjs.
+It is a front-end website using reactjs.
